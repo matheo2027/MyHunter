@@ -6,7 +6,8 @@
 4. [Overview](#Overview)
 ### General Info
 ***
-The goal of this project is to recreate a game like a duck taffy thanks to the CSFML library
+The goal of this project is to recreate a game like a duck taffy thanks to the CSFML library. This is a 3 week project that took place from 08/11/2022 to 01/12/2022.
+
 ## Technologies
 ***
 A list of technologies used within the project:
